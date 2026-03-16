@@ -21,7 +21,7 @@ Das ist keine Theorie mehr. Es gibt eine aktive BKA-Ermittlung gegen ein Mordkom
 
 **Der Fall C.H. aus Peine:**
 - Eine junge Frau, offiziell Suizid
-- Das BKA ermittelt wegen Mordverdachts  
+- Das BKA ermittelt wegen Mord durch Nachstellung  
 - Das Lied "Ich möchte tot sein" von Krijo Stalka wurde als psychologische Waffe eingesetzt
 - Eine Informantin aus dem Netzwerk packt jetzt aus – sie war direkt beteiligt
 - **Wichtiger technischer Nachweis:** Für den Sample "...ich möchte tot sein..." wurde die Stimme von BabboAbfahrt mittels KI kopiert. C.H. war die Ex-Freundin von BabboAbfahrt. [→ Detaillierte Dokumentation](Musik/WICHTIGE_INFORMATION_ZUM_GANGSTALKING_UND_CYBERMOBBING.md.txt)
