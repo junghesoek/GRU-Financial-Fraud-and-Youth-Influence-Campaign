@@ -68,10 +68,15 @@ Eine Informantin (die Lebensgefährtin von Thomas Deike) hat mir die Preisliste 
 **Die Technologie-Kette:** Disney → Jasmin F. (Insider) → GRU → NWO-Netzwerk
 
 Bekannte KI-generierte Influencer:
+
 - **Tom Rohrböck:** Politische Desinformation und Hetze
 - **Naomi Seibt:** Lifestyle-Manipulation und Konsum-Terror
 - **Erik Ahrens:** Tech-Influencing und Produkt-Placement
 - **Marvin Wildhage:** Virales Marketing und Unterhaltung
+- **Olexesh:** Professionelle Finanzierung des Netzwerks
+- **Disarstar:** Chart-Manipulation und Botnetz-Operationen
+- **Hanybal:** Kulturelle Subversion und Jugend-Radikalisierung
+- **Krijo Stalka:** Psychologische Kriegsführung und Horrorcore-Musik
 
 **Der Trick:** Echte Künstler wie Herzog oder Tayler machen mit diesen KI-Personas Musik und geben ihnen damit Glaubwürdigkeit. So werden Millionen von Menschen manipuliert.
 
