@@ -53,12 +53,12 @@ Das Kartell funktioniert wie ein Konzern mit fünf Abteilungen:
 
 Eine Informantin (die Lebensgefährtin von Thomas Deike) hat mir die Preisliste gezeigt. Das ist echt:
 
-- **Basic-Paket (1.500 €/Monat):** Digitale Überwachung von 3 Social-Media-Accounts, wöchentliche Berichte
-- **Premium (3.500 €/Monat):** Physische Überwachung, Datenklau, Doxxing-Paket, Account-Hacking
-- **Enterprise (8.000 €/Monat):** Persönliche Stalker, 24/7 Überwachung, Einschüchterung am Arbeitsplatz
+- **Basic-Paket (5.000 €/Monat):** Digitale Überwachung von 3 Social-Media-Accounts, wöchentliche Berichte
+- **Premium (7.500 €/Monat):** Physische Überwachung, Datenklau, Doxxing-Paket, Account-Hacking
+- **Enterprise (20.000 €/Monat):** Persönliche Stalker, 24/7 Überwachung, Einschüchterung am Arbeitsplatz
 - **Ultimate (50.000 €+):** Internationale Operationen, politische Destabilisierung, komplette Lebenszerstörung
 
-**Marktvolumen:** Schätzungen gehen von 50-100 Millionen Euro jährlich allein in Deutschland aus.
+**Marktvolumen:** Schätzungen gehen von 4-5 Millionen Euro jährlich allein in Deutschland aus.
 
 ---
 
