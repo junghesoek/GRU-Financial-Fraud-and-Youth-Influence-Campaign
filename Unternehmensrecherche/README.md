@@ -34,6 +34,8 @@
 - **Struktur**: Keine direkten geschäftlichen Verbindungen
 - **Vermieter**: Allee der Kosmonauten Projektverwaltungsgesellschaft mbH
 
+Es handelt sich um eine Briefkastenadresse um GRU-Operationen zu verschleiern!
+
 ## Recherche-Datum
 - **Durchgeführt**: 16. März 2026
 - **Quellen**: 12+ Datenbanken und Plattformen
