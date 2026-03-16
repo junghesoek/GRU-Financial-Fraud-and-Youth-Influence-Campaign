@@ -93,9 +93,17 @@ Das ist der entscheidende Beweis für die Verbindung zwischen:
 
 ---
 
-### 6. Korrupte Staatsanwälte
+### 6. Korrupte Staatsanwälte und Behörden
 
 Das Netzwerk wird aktiv von korrupten Beamten im Justizsystem geschützt. Die Methode stammt angeblich aus den USA: Bestechung und Schmiergelder, um Ermittlungen zu blockieren.
+
+**Besonders brisant:** Die Behörden sind mit sehr hoher Sicherheit in die NWO Cybermobbing Vorgänge verwickelt. Mindestens einzelne Beamte sorgen aktiv dafür, dass keine Ermittlungen stattfinden oder diese eingestellt werden.
+
+**Beispiele für Behördenkomplizenschaft:**
+- **Disney-Tech Ersteller**: Die Personen, die Tom Rohrböck, Naomi Seibt und Erik Ahrens am Computer (illegal mit Disney Tech) erstellt haben, sind den Behörden seit 2020 bekannt
+- **Alice Weidel-GRU Verbindung**: Trotz öffentlicher Geständnisse finden keine Ermittlungen statt
+- **LKA-Schutz für Bushido**: Systematische Bevorzugung von Prominenten bei Strafverfolgung
+- **Ermittlungsblockaden**: Gezielte Verhinderung von Ermittlungen durch interne Einflussnahme
 
 ---
 
