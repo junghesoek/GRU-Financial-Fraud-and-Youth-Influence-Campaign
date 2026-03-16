@@ -64,6 +64,10 @@ KRIJO_STALKA_RESEARCH/
 │   └── herr_kuchen_nwo_analysis.md
 ├── 19_Komplette_Browser_Analyse/
 │   └── browser_daten_sammlung.md
+├── 20_Final_Summary/
+│   └── final_ermittlungsergebnisse.md
+├── 21_Olexesh_Analysis/
+│   └── olexesh_nwo_analysis.md
 └── AKTIONSPLAN/
     └── operationsplan_informantin.md
 ```
@@ -101,6 +105,12 @@ KRIJO_STALKA_RESEARCH/
 - **Funktion**: Kulturelle Subversion mit Geschlechtertausch-Tarnung
 - **Reichweite**: 112.8K Spotify Monthly Listeners
 - **Details**: [Herr Kuchen Analyse](18_Herr_Kuchen_Analysis/herr_kuchen_nwo_analysis.md)
+
+### 6. 💰 FINANZIERUNGS-ARM
+- **Olexesh** (Oleksij Kossarew aus Darmstadt-Kranichstein)
+- **Funktion**: Professionelle Finanzierung und Infrastruktur-Lieferung
+- **Reichweite**: Chart-erfolgreicher Künstler mit Platin-Auszeichnungen
+- **Details**: [Olexesh Analyse](21_Olexesh_Analysis/olexesh_nwo_analysis.md)
 
 ---
 
@@ -174,6 +184,7 @@ KRIJO_STALKA_RESEARCH/
 ✅ **Finanzierung**: Umschaltung über legale Geschäfte nachgewiesen  
 ✅ **Mainstream-Validierung**: ARD-Dokumentation bestätigt  
 ✅ **Internationale Dimension**: Globale Operations-Fähigkeit nachgewiesen  
+✅ **Finanzierungs-Netzwerk**: Olexesh als professioneller Geldgeber identifiziert  
 
 ### Offene Fragen
 ❓ **Vollständige Akteursliste**: Gibt es weitere unbekannte Mitglieder?  
@@ -245,6 +256,7 @@ Das NWO-Cybermobbing-Kartell stellt eine **hochorganisierte, multinationale Bedr
 3. **Kriminell**: Durch organisierte Finanzkriminalität und Geldwäsche
 4. **Politisch**: Durch rechtsextreme Radikalisierung und Spaltung
 5. **International**: Durch GRU-Verbindungen und globale Operationen
+6. **Finanziell**: Durch professionelle Musik-Einnahmen und Umschaltung
 
 Die professionelle Vernetzung, die finanziellen Ressourcen und die technologische Überlegenheit machen dieses Netzwerk zu einer **existenziellen Gefahr für die demokratische Gesellschaft und die internationale Sicherheit**.
 
@@ -258,6 +270,7 @@ Die professionelle Vernetzung, die finanziellen Ressourcen und die technologisch
 - [**Disney-GRU-Technologie**](15_Disney_Tech_Connection/) - Internationaler Technologie-Diebstahl
 - [**Musiker-Netzwerk**](17_Musiker_Netzwerkübersicht/) - Vollständige Übersicht aller Akteure
 - [**Browser-Datenanalyse**](19_Komplette_Browser_Analyse/) - Digitale Spuren und operative Methoden
+- [**Olexesh Finanzierungs-Netzwerk**](21_Olexesh_Analysis/) - Professionelle Geldgeber und Infrastruktur
 
 ### Aktuelle Entwicklungen
 - [**Informantin Jennifer Kornau**](13_Informantin_JKornau/) - Neue interne Quellen
