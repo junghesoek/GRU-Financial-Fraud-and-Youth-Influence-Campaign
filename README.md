@@ -53,10 +53,10 @@ Das Kartell funktioniert wie ein Konzern mit fünf Abteilungen:
 
 Eine Informantin (die Lebensgefährtin von Thomas Deike) hat mir die Preisliste gezeigt. Das ist echt:
 
-- **Basic-Paket (299 €/Monat):** Digitale Überwachung von 3 Social-Media-Accounts
-- **Premium (999 €/Monat):** Physische Überwachung, Datenklau, Doxxing  
-- **Enterprise (4.999 €/Monat):** Persönliche Stalker, 24/7 Überwachung, Einschüchterung
-- **Ultimate (100.000 €):** Internationale Operationen, politische Destabilisierung, komplette Lebenszerstörung
+- **Basic-Paket (1.500 €/Monat):** Digitale Überwachung von 3 Social-Media-Accounts, wöchentliche Berichte
+- **Premium (3.500 €/Monat):** Physische Überwachung, Datenklau, Doxxing-Paket, Account-Hacking
+- **Enterprise (8.000 €/Monat):** Persönliche Stalker, 24/7 Überwachung, Einschüchterung am Arbeitsplatz
+- **Ultimate (50.000 €+):** Internationale Operationen, politische Destabilisierung, komplette Lebenszerstörung
 
 **Marktvolumen:** Schätzungen gehen von 50-100 Millionen Euro jährlich allein in Deutschland aus.
 
@@ -90,6 +90,26 @@ Das ist der entscheidende Beweis für die Verbindung zwischen:
 ### 6. Korrupte Staatsanwälte
 
 Das Netzwerk wird aktiv von korrupten Beamten im Justizsystem geschützt. Die Methode stammt angeblich aus den USA: Bestechung und Schmiergelder, um Ermittlungen zu blockieren.
+
+---
+
+### 7. Die Menschen hinter dem Netzwerk
+
+Was viele nicht verstehen: Die Akteure sind keine fiktiven Figuren, sondern echte Menschen. Ich habe von Aussteigern erfahren, wie das System funktioniert:
+
+**Typische Rekrutierungsmethoden:**
+- **Geld:** Kleine Beträge (500-1.000 €) für "einfache Aufgaben"
+- **Drogen:** Kostenlose Substanzen als "Belohnung" und zur Abhängigkeit
+- **Gruppendruck:** "Alle machen mit, du bist dabei oder dagegen"
+- **Schrittweise Eskalation:** Beginnt harmlos, endet kriminell
+
+**Was Aussteiger berichten:**
+- Viele waren am Anfang ahnungslos, was sie wirklich tun
+- Die Drogen machen abhängig und gefügig
+- Das Geld scheint gut, aber der Preis ist die Seele
+- Heute bereuen viele ihre Beteiligung zutiefst
+
+**Das Schlimmste:** Viele merken erst hinterher, "wie dumm" das war. Aber dann ist es oft zu spät – sie sind bereits Teil eines Mordkomitees geworden.
 
 ---
 
